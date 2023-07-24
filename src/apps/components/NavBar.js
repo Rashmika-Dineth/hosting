@@ -3,8 +3,8 @@ function NavBar() {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <a className="navbar-brand" href="Navbar">
-            Navbar
+          <a className="navbar-brand" href="/">
+            Dashboard
           </a>
           <button
             className="navbar-toggler"
